@@ -1,4 +1,4 @@
-### Hi Everyone👋
+### Hi Everyone👋 Hello all, I am ricca Amelia I just joined github, I am learning about technology one of which is web application development and I want to broaden my horizons in the field of technology.
 
 <!--
 **rhikaaml/rhikaaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
