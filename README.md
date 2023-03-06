@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ricca Amelia</h1>
-<h3 align="center">hello all, I am Rika I just joined github, I am learning about technology one of which is web application development and I want to broaden my horizons in the field of technology.</h3>
+<h1 align="center">Welcome</h1>
+<h3 align="center">Hello everyone, I am Rika I just joined github, I am learning about technology one of which is web application development and I want to broaden my horizons in the field of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhikaaml&label=Profile%20views&color=0e75b6&style=flat" alt="rhikaaml" /> </p>
 
