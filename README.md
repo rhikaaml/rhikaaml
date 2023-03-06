@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dicoding**
 
-- 👯 I’m looking to collaborate on **BDT**
+- 👯 I’m looking to collaborate on **Basis Data Terapan**
 
 - 📫 How to reach me **ricca.amelia023@mhs.mdp.ac.id**
 
