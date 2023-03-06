@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ricca Amelia</h1>
-<h3 align="center">hello all, I am Ricca Amelia I just joined github, I am learning about technology one of which is web application development and I want to broaden my horizons in the field of technology.</h3>
+<h3 align="center">hello all, I am Rika I just joined github, I am learning about technology one of which is web application development and I want to broaden my horizons in the field of technology.</h3>
 
-- 🔭 I’m currently working on **BDT**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhikaaml&label=Profile%20views&color=0e75b6&style=flat" alt="rhikaaml" /> </p>
+
+- 🔭 I’m currently working on **Pemrograman Web I**
 
 - 🌱 I’m currently learning **Dicoding**
 
+- 👯 I’m looking to collaborate on **BDT**
+
 - 📫 How to reach me **ricca.amelia023@mhs.mdp.ac.id**
+
+- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhikaaml&show_icons=true&locale=en&layout=compact" alt="rhikaaml" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhikaaml&show_icons=true&locale=en" alt="rhikaaml" /></p>
-
