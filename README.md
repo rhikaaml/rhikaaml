@@ -1,17 +1,17 @@
-<h1 align="center">Welcome</h1>
-<h3 align="center">Hello everyone, I am Rika I just joined github, I am learning about technology one of which is web application development and I want to broaden my horizons in the field of technology.</h3>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center">Hello Everyone, I am Rika I just joined github, I am learning about technology one of which is web application development and I want to broaden my horizons in the field of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhikaaml&label=Profile%20views&color=0e75b6&style=flat" alt="rhikaaml" /> </p>
 
-- 🔭 I’m currently working on **Pemrograman Web I**
+- 🌱 I’m currently learning **Pemrograman Aplikasi Web, Java**
 
-- 🌱 I’m currently learning **Dicoding**
-
-- 👯 I’m looking to collaborate on **Basis Data Terapan**
+- 👯 I’m looking to collaborate on **Basis Data**
 
 - 📫 How to reach me **ricca.amelia023@mhs.mdp.ac.id**
 
-- ⚡ Fun fact **I Think I am Funny**
+- 📄 Know about my experiences (Dicoding Indonesia, Coding Studio)
+
+- ⚡ Fun fact **I am Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
